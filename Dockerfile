@@ -20,3 +20,5 @@ RUN pip install --no-cache-dir --default-timeout=1000 -r requirements.txt
 COPY . /app/
 
 RUN pip install gunicorn
+# Purani lines ke sabse niche ye dalo:
+CMD ["gunicorn", "bootcamp.wsgi:application", "--bind", "0.0.0.0:8000"]
