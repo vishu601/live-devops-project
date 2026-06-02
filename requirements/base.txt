@@ -1,0 +1,33 @@
+# Python
+# ------------------------------------------------------------------------------
+argon2-cffi  # https://github.com/hynek/argon2_cffi
+python-slugify  # https://github.com/un33k/python-slugify
+Pillow  # https://github.com/python-pillow/Pillow
+pytz  # https://github.com/stub42/pytz
+redis  # https://github.com/antirez/redis
+whitenoise  # https://github.com/evansd/whitenoise
+
+# Django
+# ------------------------------------------------------------------------------
+django  # pyup: < 2.1  # https://www.djangoproject.com/
+django-allauth  # https://github.com/pennersr/django-allauth
+django-contrib-comments  # https://github.com/django/django-contrib-comments
+django-crispy-forms  # https://github.com/django-crispy-forms/django-crispy-forms
+django-environ  # https://github.com/joke2k/django-environ
+django-markdownx  # https://github.com/neutronX/django-markdownx
+django-redis  # https://github.com/niwinz/django-redis
+django-taggit  # https://github.com/alex/django-taggit
+sorl-thumbnail  # https://github.com/jazzband/sorl-thumbnail
+
+# Channels
+# ------------------------------------------------------------------------------
+channels  # https://github.com/django/channels
+channels-redis  # https://github.com/django/channels_redis
+
+# GraphQL API
+# ------------------------------------------------------------------------------
+graphene-django  # https://github.com/graphql-python/graphene-django
+
+# Open Graph Protocol
+# ------------------------------------------------------------------------------
+beautifulsoup4  # https://www.crummy.com/software/BeautifulSoup/
